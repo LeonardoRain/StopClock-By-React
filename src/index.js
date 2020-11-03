@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import StopClick from "./StopClick";
+import StopClock from "./StopClock";
 
-ReactDOM.render(<StopClick />, document.getElementById("root"));
+ReactDOM.render(<StopClock />, document.getElementById("root"));
